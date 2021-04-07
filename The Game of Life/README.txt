@@ -1,0 +1,1 @@
+per eseguire il programma basta andare all'interno della cartella 'eseguibile' dove ci sarà un file chiamato 'The Game of Life.exe'.
