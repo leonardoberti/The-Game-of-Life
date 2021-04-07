@@ -18,6 +18,8 @@ Tale programma dovrà inoltre essere intuitivo nell'utilizzo anche per utenti no
 
 ## Esecuzione
 Per eseguire il progetto è necessario: 
-* 1. Aprire la cartella all'interno della repository
-* 2. Spostarsi all'interno della cartella 'eseguibile'
-* 3. eseguire il file 'The Game of Life.exe'
+* Aprire la cartella all'interno della repository
+* Spostarsi all'interno della cartella 'eseguibile'
+* Eseguire il file 'The Game of Life.exe'
+
+Per maggiori informazioni è presente una relazione sul progetto sviluppato interna alla cartella.
