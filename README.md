@@ -1,20 +1,22 @@
-# The-Game-of-Life
+# Notizie Calcistiche
 ## Panoramica
 * Anno accademico: 2020-2021
-* Titolo: Sviluppo interfaccia grafica per il gioco della vita di Conway
+* Titolo: Interfaccia Android per la ricerca di informazioni relative ai principali campionati di calcio
 * Studente: Berti Leonardo
 * CFUs: 6
 
-L’obbiettivo è quello di sviluppare un’applicazione desktop che permetta di mostrare una simulazione grafica ed animata del gioco The Game of Life di Conway. 
+Lo scopo del progetto è quello di creare un'applicazione Android che possa essere utilizzata da ogni appassionato calcistico per ricercare informazioni sui campionati più seguiti al mondo: inglese, italiano, spagnolo, tedesco e francese. L'applicazione sarà divisa in 4 grandi aree:
+* HomePage: dove sono elencati i campioanti europei maggiormente seguiti, ma anche notizie varie dal mondo calcistico
+* Informazioni sul campioanto: area nella quale verranno viualizzate alcune informazioni sul campionato selezionato dall'utente
+* Classifica: area nella quale verrà inserita la classifica del campioanto
+* Partite: area dove saranno visibili tutte le partite che hanno caratterizzato il campionato
+
 
 ## Linguaggi e IDE
-Per sviluppare questo programma ho scelto di utilizzare Java, poiché è uno dei linguaggi di programmazione più utilizzati applicando il principio di write once, run anywhere ("scrivi una volta, esegui ovunque"). Questo perché il codice compilato che viene eseguito su una piattaforma non deve essere ricompilato per essere eseguito su una piattaforma diversa; infatti il prodotto della compilazione è in un formato chiamato bytecode che può essere eseguito da una qualunque implementazione di un processore virtuale detto Java Virtual Machine [3].
-Inoltre, Java permette di sviluppare adeguatamente una grafica che sia relativamente semplice da creare e personalizzabile, permettendomi di costruire i vari elementi che compongono il programma e posizionarli nel giusto posto.
-Per quanto riguarda l’ambiente di sviluppo (IDE) ho scelto di lavorare su Eclipse visto che rappresenta un ambiante di lavoro ben curato nonché uno fra i più gettonati fra gli sviluppatori Java.
+Per sviluppare l’applicazione è stato scelto Android Studio, il quale è un ambiente di sviluppo integrato adibito per la creazione di applicazioni Android (IDE, integrated developmente environment). Android Studio, infatti, rappresenta uno degli IDE più utilizzati per la creazione di applicazioni Android.
 
 ## Risultati attesi
-Come risultato finale ci aspettiamo un'applicazione desktop facile da utilizzare e che dovrà supportare una simulazione del gioco della vita di Conway.
-Tale programma dovrà inoltre essere intuitivo nell'utilizzo anche per utenti non esperti di informatica.
+Come risultato finale mi aspetto un'applicazione facile da utilizzare e che potrà essere di aiuto a chiunque ricerchi statistiche, risultati e notizie all'interno dell'ambito calcistico. 
 
 ## Esecuzione
 Per eseguire il progetto è necessario: 
